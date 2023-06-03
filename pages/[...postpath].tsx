@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://broadsheetspikesnick.com/zf3mj94t?key=2dc3a80720d1876c6b58f1968bca2efb` 
+					`https://topworldcreatures.blogspot.com/2023/06/touching-image-of-brave-mother-dog-even.html` 
 				}`,
 			},
 		};
