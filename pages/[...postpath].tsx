@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://besthotmoviesbg.blogspot.com/2023/06/blog-post_88.html` 
+					`https://awarecatching.com/ajk5gmtd?key=5e8b8da6f04462b4484d425b95f9540d` 
 				}`,
 			},
 		};
